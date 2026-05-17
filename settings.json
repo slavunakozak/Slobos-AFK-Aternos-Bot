@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CZSMP-UXUr.aternos.me:15061",
+    "ip": "CZSMP-UXUr.aternos.me",
     "port": 15061,
     "version": "",
     "try-creative": false
